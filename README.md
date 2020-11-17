@@ -1,7 +1,7 @@
 # security_learning
 **安全人，安全魂，安全都是人上人。**
 
-## 一、技术栈（二进制）
+## 一、技术栈（Reverse）
 
 - 语言基础：汇编语言、C、Python、C++、Java......
 - 工具：IDA Pro、OllyDbg、GDB、WinDBG......
