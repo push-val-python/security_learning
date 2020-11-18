@@ -20,5 +20,10 @@
 - 多**练习**、积累经验
 
 ## 目录
-[百度]:http://www.baidu.com
+[汇编语言基础](https://github.com/push-val-python/security_learning/tree/master/asm%E5%9F%BA%E7%A1%80)
+[C&C++](https://github.com/push-val-python/security_learning/tree/master/C%26C%2B%2B%E5%9F%BA%E7%A1%80)
+[Python基础](https://github.com/push-val-python/security_learning/tree/master/Python%E5%9F%BA%E7%A1%80)
+[Java基础](https://github.com/push-val-python/security_learning/tree/master/Java%E5%9F%BA%E7%A1%80)
+
+
 
