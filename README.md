@@ -22,7 +22,7 @@
 ## 目录
 [汇编语言基础](https://github.com/push-val-python/security_learning/tree/master/asm%E5%9F%BA%E7%A1%80)
 
-[C&C++](https://github.com/push-val-python/security_learning/tree/master/C%26C%2B%2B%E5%9F%BA%E7%A1%80)
+[C&C++基础](https://github.com/push-val-python/security_learning/tree/master/C%26C%2B%2B%E5%9F%BA%E7%A1%80)
 
 [Python基础](https://github.com/push-val-python/security_learning/tree/master/Python%E5%9F%BA%E7%A1%80)
 
