@@ -10,7 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c63fa814-c61b-4dc4-8fa3-5c9289000d1d" name="Default Changelist" comment="2020 1116" />
+    <list default="true" id="c63fa814-c61b-4dc4-8fa3-5c9289000d1d" name="Default Changelist" comment="2020 1116">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +23,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kMO57yawTdMl8g9mX2Rjayejtg" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,7 +35,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Python基础" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\zhangsiyu\WebstormProjects\security_learning\Python基础" />
+      <recent name="C:\Users\zhangsiyu\WebstormProjects\security_learning\Java基础" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -43,7 +56,7 @@
       <workItem from="1605600123859" duration="1646000" />
       <workItem from="1605621848113" duration="1386000" />
       <workItem from="1605625865094" duration="1971000" />
-      <workItem from="1605697296178" duration="1083000" />
+      <workItem from="1605697296178" duration="1540000" />
     </task>
     <task id="LOCAL-00001" summary="2020 1116">
       <created>1605506942086</created>
@@ -129,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605698195687</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="2020 1116">
+      <created>1605698564618</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1605698564618</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,9 +176,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="380" y="141" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1605506826680" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1605698198627">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1605698569483">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1605698198627" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1605698569483" />
   </component>
 </project>
