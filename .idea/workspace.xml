@@ -11,8 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c63fa814-c61b-4dc4-8fa3-5c9289000d1d" name="Default Changelist" comment="2020 1116">
-      <change afterPath="$PROJECT_DIR$/bugku_easy_re/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asm/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/asm/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bugku_easy_re/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/bugku_easy_re/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +45,7 @@
       <workItem from="1605600123859" duration="1646000" />
       <workItem from="1605621848113" duration="1386000" />
       <workItem from="1605625865094" duration="1971000" />
+      <workItem from="1605697296178" duration="415000" />
     </task>
     <task id="LOCAL-00001" summary="2020 1116">
       <created>1605506942086</created>
@@ -96,7 +96,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605621870148</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="2020 1116">
+      <created>1605697315413</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1605697315414</updated>
+    </task>
+    <task id="LOCAL-00009" summary="2020 1116">
+      <created>1605697529173</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1605697529173</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,9 +137,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="380" y="141" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1605506826680" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1605621872567">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1605697544634">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1605621872567" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1605697544634" />
   </component>
 </project>
