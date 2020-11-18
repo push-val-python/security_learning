@@ -11,7 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c63fa814-c61b-4dc4-8fa3-5c9289000d1d" name="Default Changelist" comment="2020 1116">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bugku_easy_re/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/bugku_easy_re/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +56,7 @@
       <workItem from="1605600123859" duration="1646000" />
       <workItem from="1605621848113" duration="1386000" />
       <workItem from="1605625865094" duration="1971000" />
-      <workItem from="1605697296178" duration="1855000" />
+      <workItem from="1605697296178" duration="4016000" />
     </task>
     <task id="LOCAL-00001" summary="2020 1116">
       <created>1605506942086</created>
@@ -162,7 +163,35 @@
       <option name="project" value="LOCAL" />
       <updated>1605699113239</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="2020 1116">
+      <created>1605699173251</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1605699173251</updated>
+    </task>
+    <task id="LOCAL-00017" summary="2020 1116">
+      <created>1605699204385</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1605699204385</updated>
+    </task>
+    <task id="LOCAL-00018" summary="2020 1116">
+      <created>1605699254921</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1605699254921</updated>
+    </task>
+    <task id="LOCAL-00019" summary="2020 1116">
+      <created>1605699284339</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1605699284339</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,9 +218,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="380" y="141" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1605506826680" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1605699125662">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1605699285252">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1605699125662" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1605699285252" />
   </component>
 </project>
